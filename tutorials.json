@@ -1,0 +1,40 @@
+{
+    "tutorials": [
+        {
+            "name": "Theme Doc",
+            "type": "pdf",
+            "date": "11-Nov-2026",
+            "path": "data/startpage/tutorials/IDE_Theme.pdf"
+        },
+        {
+            "name": "How to Create a SoftConsole Design",
+            "type": "video",
+            "date": "27-Jan-2016",
+            "path": "https://www.youtube.com/watch?v=tmOWwI_kwXc"
+        },
+        {
+            "name": "Libero® Design Flow Using Libero SoC Design Suite v12.3",
+            "type": "video",
+            "date": "27-Jan-2016",
+            "path": "https://www.youtube.com/watch?v=9anYqUyYMRQ"
+        },
+        {
+            "name": "How to Simulate Microchip's FPGA Design with HDL Testbench",
+            "type": "video",
+            "date": "27-Jan-2016",
+            "path": "https://www.youtube.com/watch?v=DrRFqOKhfus"
+        },
+        {
+            "name": "PolarFire® SoC Discovery Kit - Making RISC-V Accessible to All Embedded Engineers",
+            "type": "video",
+            "date": "27-Jan-2016",
+            "path": "https://www.youtube.com/watch?v=BVTCITmPQEQ&list=PL9B4edd-p2ajpeOI4k4Lr_fwXcRlwO3dv"
+        },
+        {
+            "name": "Libero® SoC FPGA Workshop",
+            "type": "video",
+            "date": "27-Jan-2016",
+            "path": "https://www.youtube.com/watch?v=iQ8BtLsenUw"
+        }
+    ]
+}
